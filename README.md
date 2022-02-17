@@ -9,7 +9,7 @@ See https://www.youtube.com/watch?v=V8dnIw3amLA
 ```
 $ mkdir build
 $ cd build
-$ cmake .. -G Ninja
+$ cmake .. -G Ninja -DCMAKE_BUILD_TYPE=Release
 $ ninja
 $ ./intspd 
 Measure raw took 0.001129 seconds
