@@ -23,3 +23,5 @@ Measure closure took 0.032870 seconds
 1795 1795 1795 1795 1795 1795 
 -13 -13 -13 -13 -13 -13 
 ```
+
+These speeds are from an old Mac; the reader's computer might be faster.
