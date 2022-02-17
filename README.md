@@ -7,6 +7,10 @@ See https://www.youtube.com/watch?v=V8dnIw3amLA
 # Example run
 
 ```
+$ mkdir build
+$ cd build
+$ cmake .. -G Ninja
+$ ninja
 $ ./intspd 
 Measure raw took 0.001129 seconds
 Measure raw2 took 0.001132 seconds
